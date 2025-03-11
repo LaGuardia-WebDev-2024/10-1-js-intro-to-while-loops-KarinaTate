@@ -9,4 +9,13 @@ while (x < 350) {
    text(x, x, 10);
    x += 50;
    }
+   
+
+   
+   var y = 0;
+while (y < 350) {
+   text(y, 10,y);
+   y += 50;
+   };
+   
    };
